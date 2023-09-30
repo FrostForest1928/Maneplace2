@@ -1,0 +1,15 @@
+{
+  "contact": "halfelfsquad",
+  "templates": [
+    {
+      "name": "NonBinaryDie",
+      "sources": [
+        "https://imgur.com/y4YImjz"
+      ],
+      "x": 325,
+      "y": 478
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
