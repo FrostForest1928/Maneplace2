@@ -1,0 +1,15 @@
+{
+  "contact": "halfelfsquad",
+  "templates": [
+    {
+      "name": "ManeTemp",
+      "sources": [
+        "https://i.imgur.com/hPMFDrf.png"
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
